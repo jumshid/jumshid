@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @jumshid
-- 👀 I’m interested in c/Java/SQL
-- 🌱 I’m currently learning CS
+- 👀 I’m interested in c/Java/SQL/Data, Data and Data
 
 
 <!---
